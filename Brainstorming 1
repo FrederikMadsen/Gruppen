@@ -5,9 +5,20 @@
 
 ### supplementary data
 - Big newspaper mentions of chryptocoins (buying, good news, bad news, scams, fraud)
-- Stock indexes (correllation)
+- Stock indexes (correllation - financial stocks - GFORCE and INVIDIA)
+- Macroeconomic data - interest vs.willingness to invest. 
+- Graphics cards company(Gforce - dataminers need those cards to keep mining chrypto.)
 - Gold prices
 - Google trends (buying, data,)
-- 
+- Reddit searches for BitCoin.
+- Twitter data for chrypto currencies.
 
 
+### Analytics
+- Crypto goes up or down? (binary)
+- By how much does it change (percentages
+- Public vs. expert opinion on the cryptodata. 
+
+
+### General
+- Dive into a very specific dataset. 
